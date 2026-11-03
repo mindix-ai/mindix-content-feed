@@ -2,6 +2,9 @@
 
 > 让 AI 愿意引用你的内容：9 块积木模板 + 校验器。
 
+- **Gitee（国内）**：https://gitee.com/mindix-ai/mindix-content-feed
+- **GitHub（海外）**：https://github.com/mindix-ai/mindix-content-feed
+
 ## 30 秒看懂
 
 AI 不是读全文，是找「能直接回答问题的片段」。
