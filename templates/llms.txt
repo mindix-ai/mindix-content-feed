@@ -1,0 +1,14 @@
+# 你的品牌名
+
+> 一句话说明你是谁、提供什么。
+
+## 核心页面
+- [产品](https://example.com/products/): 一句话
+- [方案](https://example.com/solutions/): 一句话
+
+## 内容
+- [方法论](./docs/why-ai-reads.md): AI 为什么这样抓内容
+- [自查清单](./docs/checklist.md): 发布前必查
+
+## 联系方式
+- 免费诊断: https://example.com/contact

@@ -1,0 +1,9 @@
+{
+  "name": "mindix-content-feed",
+  "version": "0.1.0",
+  "description": "让 AI 愿意引用你的内容：9 块积木模板 + 校验器",
+  "bin": { "mindix-content-check": "bin/check.js" },
+  "type": "commonjs",
+  "license": "AGPL-3.0",
+  "engines": { "node": ">=18" }
+}
